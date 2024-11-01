@@ -30,13 +30,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img width="40" />
-  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="40" alt="c++ logo"  />
+<div align="right">
+  <img width="120" />
+  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="120" alt="c++ logo"  />
 </div>
