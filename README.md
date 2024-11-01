@@ -19,8 +19,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="c++ logo"  />
 </div>
 
-<div class="tenor-gif-embed" data-postid="10731664124636879314" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/e-gif-10731664124636879314">E Sticker</a>from <a href="https://tenor.com/search/e-stickers">E Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <div align="left">
   <!---<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />-->
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -37,3 +35,4 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+<div class="tenor-gif-embed" data-postid="9607410651681348522" data-share-method="host" data-aspect-ratio="1.13287" data-width="100%"><a href="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522">Anime Wave Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
