@@ -36,7 +36,7 @@
 
 ###
 
-<div align="left">
-  <img width="12" />
-  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="30" alt="c++ logo"  />
+<div align="center">
+  <img width="40" />
+  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="40" alt="c++ logo"  />
 </div>
