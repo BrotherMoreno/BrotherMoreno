@@ -35,4 +35,8 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-<div class="tenor-gif-embed" data-postid="9607410651681348522" data-share-method="host" data-aspect-ratio="1.13287" data-width="100%"><a href="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522">Anime Wave Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div align="left">
+  <img width="12" />
+  <img src="https://tenor.com/es/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522" height="30" alt="c++ logo"  />
+</div>
