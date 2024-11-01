@@ -38,5 +38,5 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://tenor.com/es/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522" height="30" alt="c++ logo"  />
+  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="30" alt="c++ logo"  />
 </div>
