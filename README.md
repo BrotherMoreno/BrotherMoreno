@@ -33,7 +33,7 @@
 
 ###
 
-<div align="right">
+<!--<div align="right">
   <img width="120" />
   <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" height="120" alt="anime saludo"  />
-</div>
+</div>-->
