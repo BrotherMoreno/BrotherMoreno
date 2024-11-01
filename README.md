@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="c++ logo"  />
-  <img width="100" />
+  <img width="80" />
   <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" align="right" height="120" alt="anime saludo"  />
 </div>
 
