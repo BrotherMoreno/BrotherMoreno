@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
- <img width="12" />
+ <img width="100" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrotherMoreno&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF0000&icon_color=FF0000&text_color=9c9c9c&bg_color=0,000000,af0f0f" alt="my Github Stats"/>
    <img width="10" />
   <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" align="center" height="120" alt="anime saludo"  />
