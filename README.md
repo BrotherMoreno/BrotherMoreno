@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+    <img src="imgProfile/gon.gif" width="300px">
 </div>
 
 <br>
