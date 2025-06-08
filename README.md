@@ -43,7 +43,7 @@ Languages.A1: English
 </pre>
 
 <pre>
-"🟥To live happily is the only purpose I have🟥"
+<h3 align="center">"🟥To live happily is the only purpose I have🟥"<h3/>
 </pre>
 
 <br>
