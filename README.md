@@ -121,7 +121,6 @@ Languages.A1: English
 <br>
 
 <div>
-    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
         <img src="imgProfile/vagabond.gif" style="max-width:100%;height:auto;" width="300"/>
     </div>
@@ -129,12 +128,4 @@ Languages.A1: English
 
 <br> 
 
-<h1 align="center">Support Me 🎧🎤  </h1>
 
-<p align="center">
-    <img src="img/vocaloid/vocaloidchibi.png" style="max-width:100%;height:auto;">
-</p>
-
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;max-width:100%;width: 217px !important;" align="center">
-</a>
