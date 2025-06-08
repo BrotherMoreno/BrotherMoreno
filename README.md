@@ -114,7 +114,7 @@ Languages.A1: English
 
 <div>
     <div align="center">
-        <img src="imgProfile/vagabond.gif" style="max-width:100%;height:auto;" width="300"/>
+        <img src="imgProfile/vagabond.gif" style="max-width:100%;height:auto;" width="800"/>
     </div>
 </div>
 
