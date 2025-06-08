@@ -29,7 +29,7 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile ver. 5.0.1: クルシュ・カルステンは、美と戦いを一体化させるヴァルキリーである.「クルシュ・カルステンは、びとたたかいをいったいかさせるヴァルキリーである」
 ----------------------------------------------------------------------------------------
-Username: Keima Tatsuya「桂馬達也」
+Username: Brother Moreno「桂馬達也」
 WhoamI: Physicist. Also musician (more or less)
 OS: Garuda Linux 'Raptor' with Hyprland
 Shell: zsh 5.9
@@ -38,19 +38,16 @@ Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰�
 Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
 Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
 Pronouns: He/Him
-Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin, Haskell
-Hobbyes: Python, C, C++, Go.
-Learning: Swift, Js, React, Haskell
+Location: Lima, perú
+Languages: C++, Python, javascript
+Hobbyes: Python, C, C++, html, css
+Learning: Js, React, mysql
 FavouriteSong: Sweeter than wine by NCW
 FavouriteEquation: Schrödinger equation and Euler's formula
 Hobbies: Gaming,watching anime,coding while I am listening music
 Languages.A1: 中文, русский, Deutsch, français
 Languages.B1: 日本語
 Languages.B2: English (well sometimes)
-My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
 
 ```
 
