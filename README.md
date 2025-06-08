@@ -1,38 +1,52 @@
-<h2 align="left">Hi 👋!Mi nombre es Brother Moreno</h2>
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
 
-###
->[!note]
-> sientete como es casa
-<div align="center">
- <img width="100" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrotherMoreno&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF0000&icon_color=FF0000&text_color=9c9c9c&bg_color=0,000000,af0f0f" alt="my Github Stats"/>
-   <img width="10" />
-  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" align="center" height="120" alt="anime saludo"  />
-</div>
+- Name: **Reidho Satria** / **レイドー・サトリア**
 
+- Residing in: **South Sumatra, Indonesia**
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30" alt="c++ logo"  />
+- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
+
+- Proficient in: **GNU/Linux** and **FreeBSD**
+
+- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
+
+- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
+
+- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<br/>
+<br/>
+<img src="./img/Repo-elaina.png" width="488" />
+<br/>
+<br/>
   
+- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
+  The Ultimate Checked Proxy List - Update Every 20 Minutes
+- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
+  The Ultimate Advertisement List - Update Weekly
+- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
+  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
+- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+  Aizawa is a command-line webshell designed to execute commands through HTTP header   
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p>
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
 
-<div align="left">
-  <!---<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />-->
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
-</div>
-
-###
-
-}
+[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://api.gitsponsors.com/api/badge/link?p=JkDWF0gOVEimlkpCoj9xdBoXWRGMbNfC0sdrwf6txoPa2MbIgkrRU/ljgEoDE4FbnuOrOOGP6M3FRH0FiNXgAzbxT/vy0OFdhjDMmPjK/hX7U4wVUoW0rlYMC+8edaOCPVsffLSP6WXb0NnBzHcqgmp2sGBh5gMJiqIgtICOspk=)
