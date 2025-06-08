@@ -25,9 +25,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotherMoreno&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
-<br/>
 <img src="./img/Repo-elaina.png" width="488" />
-<br/>
 <br/>
   
 - 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
