@@ -3,7 +3,7 @@
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello,%20I'm%20Brother%20Moreno,%20welcome%20to%20my%20profile.&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
     </a>
     <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=BrotherMoreno&style=for-the-badge&color=1C8C8C">
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="![](https://komarev.com/ghpvc/?username=BrotherMoreno&style=flat-square)">
         <a href="https://t.me/yoshimakayaba">
             <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
         </a>
