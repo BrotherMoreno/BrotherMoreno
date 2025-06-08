@@ -1,54 +1,196 @@
-<body style="background-color:red;">
-</body>
-<img src="imgProfile/welcome.png" width="100%" alt="profile" border="0"/>
-<div>
-<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
-<br/>
-<img src="./img/welcome.png" width="488" />
-<br/>
-<br/>
-<br/>
-
-- Name: **Brother Moreno** / **ポール兄弟**
-
-- Residing in: **South America, Perú**
-
-- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
-
-- Proficient in: **GNU/Linux** and **FreeBSD**
-
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
-
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
-
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotherMoreno&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-<br/>
-<img src="./img/Repo-elaina.png" width="488" />
-<br/>
-  
-- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
-  The Ultimate Checked Proxy List - Update Every 20 Minutes
-- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
-  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Aizawa is a command-line webshell designed to execute commands through HTTP header<br/>   
-<img src="imgProfile/gon.gif" width="300" align="left" style="margin-right: 20px; border-radius: 10px;" />
-<img src="imgProfile/vagabond.gif" width="300" align="right" style="margin-left: 20px; border-radius: 10px;" />
-
-<br style="clear: both;" />
-<br/>
-<sub>“With great power comes great responsibility” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=BrotherMoreno&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://www.instagram.com/brothermorenop/"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-</p>
-<img src="imgProfile/luffyOnepiece.jpg" width="100%" align="center" />
+<div align="center">
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+    </a>
+    <p>
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+        <a href="https://t.me/yoshimakayaba">
+            <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+    </p>
 </div>
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://api.gitsponsors.com/api/badge/link?p=JkDWF0gOVEimlkpCoj9xdBoXWRGMbNfC0sdrwf6txoPa2MbIgkrRU/ljgEoDE4FbnuOrOOGP6M3FRH0FiNXgAzbxT/vy0OFdhjDMmPjK/hX7U4wVUoW0rlYMC+8edaOCPVsffLSP6WXb0NnBzHcqgmp2sGBh5gMJiqIgtICOspk=)
+<br>
+
+<div align="center">
+    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+
+<br>
+
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```zsh
+john@keima: ~/my_readme (main⚡)$ neofetch
+```
+
+<img align="left" src="img/re-zero/10b.webp" width="279px"/>
+
+```csharp
+My Profile ver. 5.0.1: クルシュ・カルステンは、美と戦いを一体化させるヴァルキリーである.「クルシュ・カルステンは、びとたたかいをいったいかさせるヴァルキリーである」
+----------------------------------------------------------------------------------------
+Username: Keima Tatsuya「桂馬達也」
+WhoamI: Physicist. Also musician (more or less)
+OS: Garuda Linux 'Raptor' with Hyprland
+Shell: zsh 5.9
+Telegram: @yoshimakayaba.
+Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
+Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
+Pronouns: He/Him
+Location: Planet Kepler-452b
+Languages: C,C++, Python, Kotlin, Haskell
+Hobbyes: Python, C, C++, Go.
+Learning: Swift, Js, React, Haskell
+FavouriteSong: Sweeter than wine by NCW
+FavouriteEquation: Schrödinger equation and Euler's formula
+Hobbies: Gaming,watching anime,coding while I am listening music
+Languages.A1: 中文, русский, Deutsch, français
+Languages.B1: 日本語
+Languages.B2: English (well sometimes)
+My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
+Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
+Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
+
+```
+
+
+<div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p align="right">
+        <a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM">
+            <img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left">
+        </a>
+        <b>奏(かなで)CV:高橋李依とCV:雨宮天<br>🎵ふたりはいつもどんな時もつながっていける。🎵</b>
+    </p>
+    <br>
+    <br>
+    <p align="left">
+        <a href = "https://www.youtube.com/watch?v=oXlEEXws3gc">
+            <img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right">
+        </a>
+        <b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b>
+    </p>
+    <br>
+    <br>
+    <p align="right">
+        <a href="https://www.youtube.com/watch?v=jC97suFyObw">
+            <img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left">
+        </a>
+        <b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
+    <br>
+    <br>
+    <p align="left">
+    <a href="https://youtu.be/b_cuMcDWwsI?si=uaO4V3vYFIG26hrr">
+        <img src="https://i.ytimg.com/vi/b_cuMcDWwsI/hqdefault.jpg" width="170" align="right">
+    </a>
+    <b><br>wowaka 『裏表ラバーズ』feat. 初音ミク。💘🪄💕</b>
+    </p>
+</div>
+
+<br>
+<br>
+<br>
+
+<div>
+    <h2 align="center"> 🔎Knowledge📖 </h2>
+</div>
+<div align = "center">
+    <p align = "justify">
+        I worked using Jupyter Notebook for data analysis and AI focusing on social networks applying graphs theory. Nowdays, I focus on mobile develoment as Kotlin and Swift, also I get some badge about CCNA so I love cyber security.
+        So I do my best in every specialtation area. My programming languages are Swift, C/C++, Python, Kotlin, Shell Script, and 
+        little bit of CSS and Java Script. In other hand, My knowledge languages are Spanish (Native), English (B2 ~ C1), French (A2),
+        German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. 
+        <br>
+    </p>
+    <p align = "center">
+         <a href="https://skillicons.dev">
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,gitlab,java,kotlin,latex,py,sklearn,swift,c,cpp,css,html,tensorflow,aws,haskell&perline=8"alt="My Skills"> 
+        </a>
+    </p>
+</div>
+<br>
+<br>
+<br>
+
+<div>
+    <h2 align = "center"> 🏆 My Badges </h2>
+</div>
+<div align="center">
+    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
+    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
+    <img align="center" src="badges/ccna-switching-routing-and-wireless-essentials.1.png" height="120px" width="120px"/>
+    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
+    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
+    <img align="center" src="badges/introduction-to-cybersecurity.png" height="120px" width="120px"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/tillend1x100.png" alt="Your Image Badge" />
+</div>
+<br>
+<br>
+<br>
+
+<h2 align = "center"> 📉 GitHub Stats</h2>
+<div> 
+    <p align = "center">
+        <a href="https://github-readme-stats.vercel.app">
+            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
+        </a>
+        <a href="https://github-readme-streak-stats.herokuapp.com">
+            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
+        </a><!--change language to japanese locale=jp-->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=radical&row=4&column=4">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
+        </a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
+        </a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
+    </p>
+</div>
+<br>
+<br>
+<h1 align="center"> My contributions game 🐍🎮</h1>
+
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
+
+<h2 align ="center"> 📝 Contact me 📝</h2>
+<br> 
+<div align="center">
+    <a href="https://github.com/JohnKun136NVCP" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
+    </a>
+    <a href="https://twitter.com/JohnWilliamBn" target="_blank">
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
+    </a>
+    <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
+    </a>
+    <br>
+    <img align="center"src = "img/vocaloid/hatsunemikudrop.gif" width = "500">
+</div>  
+<br>
+<div>
+    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+    <div align="center">
+        <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
+    </div>
+</div>
+<br> 
+<br>
+
+    
+<h1 align="center">Support Me 🎧🎤  </h1>
+
+<p align="center">
+⠀⠀⠀⠀⠀<img src="img/vocaloid/vocaloidchibi.png">
+</p>
+
+
+<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
