@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
+- Name: **Brother Moreno** / **ポール兄弟**
 
-- Residing in: **South Sumatra, Indonesia**
+- Residing in: **South America, Perú**
 
 - Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
 
