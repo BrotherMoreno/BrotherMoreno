@@ -10,14 +10,6 @@
     </p>
 </div>
 
-<br>
-
-<div align="center">
-    <img src="imgProfile/gon.gif" style="max-width:100%;height:auto;" width="300">
-</div>
-
-<br>
-
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 <pre>
