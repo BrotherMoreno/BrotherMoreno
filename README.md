@@ -26,27 +26,20 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 <img align="left" src="imgProfile/perfil hombrearaña png(3).png" style="max-width:100%;height:auto;" width="200"/>
 
 <pre>
-My Profile ver. 5.0.1: クルシュ・カルステンは、美と戦いを一体化させるヴァルキリーである.「クルシュ・カルステンは、びとたたかいをいったいかさせるヴァルキリーである」
+My Profile ver. 1.1: SPIDY :)
 ----------------------------------------------------------------------------------------
-Username: Brother Moreno「桂馬達也」
-WhoamI: Physicist. Also musician (more or less)
-OS: Garuda Linux 'Raptor' with Hyprland
-Shell: zsh 5.9
-Telegram: @yoshimakayaba.
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
+Username: Brother Moreno「 V I T O 」
+WhoamI: Software engineer in progress and occasional poet
+Instagram: @brotherMorenop.
+Fav.Anime: ひとつなぎの大秘宝 (One piece)
 Pronouns: He/Him
 Location: Lima, perú
 Languages: C++, Python, javascript
 Hobbyes: Python, C, C++, html, css
 Learning: Js, React, mysql
-FavouriteSong: Sweeter than wine by NCW
-FavouriteEquation: Schrödinger equation and Euler's formula
+FavouriteSong: Phillip Phillips - Gone, Gone, Gone
 Hobbies: Gaming,watching anime,coding while I am listening music
-Languages.A1: 中文, русский, Deutsch, français
-Languages.B1: 日本語
-Languages.B2: English (well sometimes)
+Languages.A1: English
 </pre>
 
 <div align="center">
@@ -60,7 +53,7 @@ Languages.B2: English (well sometimes)
     <img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" style="max-width:100%;height:auto;" width="170">
     <b>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b>
     <br><br>
-    <img src="https://i.ytimg.com/vi/b_cuMcDWwsI/hqdefault.jpg" style="max-width:100%;height:auto;" width="170">
+    <img src="https://i.ytimg.com/vi/b_cuMcDWwsI/hqdefault.jpg" style="max-width:50%;height:auto;" width="170">
     <b>wowaka 『裏表ラバーズ』feat. 初音ミク。💘🪄💕</b>
 </div>
 
