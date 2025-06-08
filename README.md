@@ -136,7 +136,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <div> 
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
+            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BrotherMoreno&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
         </a>
         <a href="https://github-readme-streak-stats.herokuapp.com">
             <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BrotherMoreno&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
@@ -156,8 +156,8 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <br>
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/BrotherMoreno/BrotherMoreno/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/BrotherMoreno/BrotherMoreno/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
