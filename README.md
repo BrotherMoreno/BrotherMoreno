@@ -24,7 +24,7 @@
 john@keima: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/re-zero/10b.webp" width="279px"/>
+<img align="left" src="imgProfile/perfil hombrearaña png(3).png" width="279px"/>
 
 ```csharp
 My Profile ver. 5.0.1: クルシュ・カルステンは、美と戦いを一体化させるヴァルキリーである.「クルシュ・カルステンは、びとたたかいをいったいかさせるヴァルキリーである」
