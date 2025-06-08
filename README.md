@@ -42,20 +42,9 @@ Hobbies: Gaming,watching anime,coding while I am listening music
 Languages.A1: English
 </pre>
 
-<div align="center">
-    <br>
-    <img src="https://youtu.be/oozQ4yV__Vw" style="max-width:100%;height:auto;" width="170">
-    <b>奏(かなで)CV:高橋李依とCV:雨宮天<br>🎵ふたりはいつもどんな時もつながっていける。🎵</b>
-    <br><br>
-    <img src="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" style="max-width:100%;height:auto;" width="170">
-    <b>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b>
-    <br><br>
-    <img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" style="max-width:100%;height:auto;" width="170">
-    <b>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b>
-    <br><br>
-    <img src="https://i.ytimg.com/vi/b_cuMcDWwsI/hqdefault.jpg" style="max-width:50%;height:auto;" width="170">
-    <b>wowaka 『裏表ラバーズ』feat. 初音ミク。💘🪄💕</b>
-</div>
+<pre>
+"🟥To live happily is the only purpose I have🟥"
+</pre>
 
 <br>
 
