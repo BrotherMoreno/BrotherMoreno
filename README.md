@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/BrotherMoreno/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello,%20I'm%20Brother%20Moreno,%20welcome%20to%20my%20profile.!">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello,%20I'm%20Brother%20Moreno,%20welcome%20to%20my%20profile.!&l0=fffafa&frame=ffffff&comment=">
     </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=BrotherMoreno&style=for-the-badge&color=1C8C8C">
