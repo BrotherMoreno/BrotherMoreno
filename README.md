@@ -105,27 +105,13 @@ Languages.A1: English
     </a>
 </div>
 
-<br>
-
-<h1 align="center"> My contributions game 🐍🎮</h1>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/BrotherMoreno/BrotherMoreno/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width:100%;height:auto;">
-    <img src="https://raw.githubusercontent.com/BrotherMoreno/BrotherMoreno/output/github-contribution-grid-snake.svggh-light-mode-only" style="max-width:100%;height:auto;">
-</p>
-
-<br>
-
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a href="https://github.com/JohnKun136NVCP" target="_blank">
+    <a href="https://github.com/BrotherMoreno" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;max-width:100%;height:auto;">
     </a>
-    <a href="https://twitter.com/JohnWilliamBn" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;max-width:100%;height:auto;">
-    </a>
-    <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
+    <a href="https://www.linkedin.com/in/brother-pablo-moreno-cordova-242825328/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;max-width:100%;height:auto;">
     </a>
     <br>
