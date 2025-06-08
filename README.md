@@ -40,8 +40,7 @@
   Aizawa is a command-line webshell designed to execute commands through HTTP header   
 <img src="imgProfile/vagabond.gif" width="400" align="right" />
 <br/>
-<img src="imgProfile/gon.gif" width="300
-  " /><br/>
+<img src="imgProfile/gon.gif" width="300" align="left" /><br/>
 <sub>“With great power comes great responsibility” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=BrotherMoreno&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
