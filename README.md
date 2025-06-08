@@ -36,10 +36,10 @@
   A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
 - 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
   Aizawa is a command-line webshell designed to execute commands through HTTP header<br/>   
-<div style="width: 100%; display: flex; justify-content: space-between;">
-  <img src="imgProfile/gon.gif" width="400" style="border-radius: 10px;" />
-  <img src="imgProfile/vagabond.gif" width="400" style="border-radius: 10px;" />
-</div>
+<img src="imgProfile/gon.gif" width="200" align="left" style="margin-right: 20px; border-radius: 10px;" />
+<img src="imgProfile/vagabond.gif" width="200" align="right" style="margin-left: 20px; border-radius: 10px;" />
+
+<br style="clear: both;" />
 <br/>
 <sub>“With great power comes great responsibility” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
