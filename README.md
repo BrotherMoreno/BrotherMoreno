@@ -179,7 +179,7 @@ Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Min
 <div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
-        <img src="imgProfile/gon.gif" width="500"/>
+        <img src="imgProfile/vagabond.gif" width="500"/>
     </div>
 </div>
 <br> 
