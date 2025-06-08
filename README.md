@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!Mi nombre es Brother Moreno</h2>
 
 ###
->.[!note].
+>[!note]
 > sientete como es casa
 <div align="center">
  <img width="100" />
