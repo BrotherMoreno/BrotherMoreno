@@ -1,3 +1,5 @@
+<body style="background-color:red;">
+</body>
 <img src="imgProfile/welcome.png" width="100%" alt="profile" border="0"/>
 <div>
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
