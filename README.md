@@ -42,9 +42,9 @@ Hobbies: Gaming,watching anime,coding while I am listening music
 Languages.A1: English
 </pre>
 
-<pre>
+<div>
 <h3 align="center">"🟥To live happily is the only purpose I have🟥"<h3/>
-</pre>
+</div>
 
 <br>
 
@@ -105,7 +105,7 @@ Languages.A1: English
     </a>
 </div>
 
-<h2 align ="center"> 📝 Contact me 📝</h2>
+<h2 align ="center">Contact me</h2>
 <br> 
 <div align="center">
     <a href="https://github.com/BrotherMoreno" target="_blank">
