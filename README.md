@@ -70,7 +70,6 @@ Languages.A1: English
     <img src="badges/ccna-enterprise-networking-security-and-automation.png" style="max-width:100%;height:auto;" height="90">
     <img src="badges/ccna-enterprise-networking-security-and-automation.png" style="max-width:100%;height:auto;" height="90">
     <img src="badges/introduction-to-cybersecurity.png" style="max-width:100%;height:auto;" height="90">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tillend1x100.png" style="max-width:100%;height:auto;" height="90">
 </div>
 
 <br>
