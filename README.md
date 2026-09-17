@@ -55,41 +55,9 @@ Languages.A1: English
 
 <br>
 
-<div>
-    <h2 align="center"> 🏆 My Badges </h2>
-</div>
-<div align="center">
-    <img src="badges/networking-basics.png" style="max-width:100%;height:auto;" height="90">
-    <img src="badges/ccna-introduction-to-networks.png" style="max-width:100%;height:auto;" height="90">
-    <img src="badges/ccna-switching-routing-and-wireless-essentials.1.png" style="max-width:100%;height:auto;" height="90">
-    <img src="badges/ccna-enterprise-networking-security-and-automation.png" style="max-width:100%;height:auto;" height="90">
-    <img src="badges/ccna-enterprise-networking-security-and-automation.png" style="max-width:100%;height:auto;" height="90">
-    <img src="badges/introduction-to-cybersecurity.png" style="max-width:100%;height:auto;" height="90">
-</div>
 
 <br>
 
-<h2 align="center"> 📉 GitHub Stats</h2>
-<div align="center"> 
-    <a href="https://github-readme-stats.vercel.app">
-        <img style="max-width:100%;height:auto;" width="350" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BrotherMoreno&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img style="max-width:100%;height:auto;" width="350" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BrotherMoreno&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img style="max-width:100%;height:auto;" width="350" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=BrotherMoreno&theme=radical&row=4&column=4">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotherMoreno&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6">
-        <img style="max-width:100%;height:auto;" width="350" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotherMoreno&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6">
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img style="max-width:100%;height:auto;" width="350" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=BrotherMoreno&theme=redical">
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img style="max-width:100%;height:auto;" width="350" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrotherMoreno&theme=2077">
-    </a>
-</div>
 
 <h2 align ="center">Contact me</h2>
 <br> 
