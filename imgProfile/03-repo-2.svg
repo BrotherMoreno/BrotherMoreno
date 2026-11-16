@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="138" viewBox="0 0 430 138">
+  <style>
+    text{font-family:'JetBrains Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#d3e4d8}
+    .m{fill:#7f9a89}
+    .g{fill:#4ade80;font-weight:700}
+    .o{fill:#ff8a5b}
+    .p{fill:#ff7eb6}
+    @keyframes bl{50%{opacity:0}}
+    .cur{animation:bl 1s steps(2) infinite}
+  </style>
+  <rect x="1" y="1" width="428" height="136" rx="10" fill="#0a160f" stroke="#1d3a28"/>
+  <rect x="1" y="12" width="4" height="114" rx="2" fill="#f34b7d"/>
+  <text class="g" x="20" y="30" font-size="14">AeroGraph</text>
+  <text class="o" x="414" y="30" font-size="12" text-anchor="end"></text>
+  <text x="20" y="54" dy="0" font-size="12">AeroGraph v2.0: evalúa las escalas de Sky y Latam</text>
+  <text x="20" y="54" dy="16" font-size="12">con grafos y matrices de adyacencia.</text>
+  <circle cx="26" cy="115" r="5" fill="#f34b7d"/>
+  <text class="m" x="36" y="119" font-size="12">C++</text>
+  <rect x="76" y="103" width="57" height="20" rx="10" fill="none" stroke="#1d3a28"/>
+  <text class="m" x="84" y="117" font-size="11">Grafos</text>
+  <rect x="139" y="103" width="70" height="20" rx="10" fill="none" stroke="#1d3a28"/>
+  <text class="m" x="147" y="117" font-size="11">Matrices</text>
+</svg>

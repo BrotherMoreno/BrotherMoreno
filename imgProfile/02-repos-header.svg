@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40">
+  <style>
+    text{font-family:'JetBrains Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#d3e4d8}
+    .m{fill:#7f9a89}
+    .g{fill:#4ade80;font-weight:700}
+    .o{fill:#ff8a5b}
+    .p{fill:#ff7eb6}
+    @keyframes bl{50%{opacity:0}}
+    .cur{animation:bl 1s steps(2) infinite}
+  </style>
+  <rect x="20" y="4" width="840" height="36" rx="12" fill="#0a160f" stroke="#1d3a28"/>
+  <path d="M20 36H860" stroke="#1d3a28"/>
+  <circle cx="38" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="56" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="74" cy="20" r="5" fill="#27c93f"/>
+  <text class="m" x="92" y="24" font-size="12">~/repos: ls -l</text>
+</svg>

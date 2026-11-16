@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="292" viewBox="0 0 880 292">
+  <style>
+    text{font-family:'JetBrains Mono',SFMono-Regular,Menlo,Consolas,monospace;fill:#d3e4d8}
+    .m{fill:#7f9a89}
+    .g{fill:#4ade80;font-weight:700}
+    .o{fill:#ff8a5b}
+    .p{fill:#ff7eb6}
+    @keyframes bl{50%{opacity:0}}
+    .cur{animation:bl 1s steps(2) infinite}
+  </style>
+  <rect x="10" y="0" width="415" height="290" rx="12" fill="#0a160f" stroke="#1d3a28"/>
+  <path d="M10 32H425" stroke="#1d3a28"/>
+  <circle cx="28" cy="16" r="5" fill="#ff5f56"/>
+  <circle cx="46" cy="16" r="5" fill="#ffbd2e"/>
+  <circle cx="64" cy="16" r="5" fill="#27c93f"/>
+  <text class="m" x="82" y="20" font-size="12">htop: en desarrollo</text>
+  <text class="g" x="30" y="64" font-size="13">RutaYa</text>
+  <text class="p" x="405" y="64" font-size="11" text-anchor="end">en desarrollo</text>
+  <text class="m" x="30" y="81" font-size="11">App de transporte tipo Yango: PWA con React y MapLibre.</text>
+  <line x1="30" y1="91" x2="405" y2="91" stroke="#1d3a28" stroke-dasharray="3 4"/>
+  <text class="g" x="30" y="110" font-size="13">InkFlow Studio</text>
+  <text class="p" x="405" y="110" font-size="11" text-anchor="end">en desarrollo</text>
+  <text class="m" x="30" y="127" font-size="11">Programa de dibujo estilo Krita para escritorio y tablet.</text>
+  <line x1="30" y1="137" x2="405" y2="137" stroke="#1d3a28" stroke-dasharray="3 4"/>
+  <text class="g" x="30" y="156" font-size="13">FolderGlow Studio</text>
+  <text class="p" x="405" y="156" font-size="11" text-anchor="end">en desarrollo</text>
+  <text class="m" x="30" y="173" font-size="11">Carpetas neón y cristal translúcido para Windows.</text>
+  <line x1="30" y1="183" x2="405" y2="183" stroke="#1d3a28" stroke-dasharray="3 4"/>
+  <text class="g" x="30" y="202" font-size="13">VozLimpia</text>
+  <text class="p" x="405" y="202" font-size="11" text-anchor="end">en desarrollo</text>
+  <text class="m" x="30" y="219" font-size="11">Rescata la voz en audios saturados de conciertos.</text>
+  <line x1="30" y1="229" x2="405" y2="229" stroke="#1d3a28" stroke-dasharray="3 4"/>
+  <text class="g" x="30" y="248" font-size="13">Bot de Discord</text>
+  <text class="p" x="405" y="248" font-size="11" text-anchor="end">en desarrollo</text>
+  <text class="m" x="30" y="265" font-size="11">Niveles, tickets, embeds y bienvenidas con estilo.</text>
+  <line x1="30" y1="275" x2="405" y2="275" stroke="#1d3a28" stroke-dasharray="3 4"/>
+  <rect x="455" y="0" width="415" height="290" rx="12" fill="#0a160f" stroke="#1d3a28"/>
+  <path d="M455 32H870" stroke="#1d3a28"/>
+  <circle cx="473" cy="16" r="5" fill="#ff5f56"/>
+  <circle cx="491" cy="16" r="5" fill="#ffbd2e"/>
+  <circle cx="509" cy="16" r="5" fill="#27c93f"/>
+  <text class="m" x="527" y="20" font-size="12">~/stack</text>
+  <rect x="475" y="50" width="140" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="488" cy="63" r="4.5" fill="#3ddc84"/>
+  <text x="499" y="67" font-size="12">Android Studio</text>
+  <rect x="623" y="50" width="64" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="636" cy="63" r="4.5" fill="#4eaa25"/>
+  <text x="647" y="67" font-size="12">Bash</text>
+  <rect x="696" y="50" width="57" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="709" cy="63" r="4.5" fill="#f05032"/>
+  <text x="720" y="67" font-size="12">Git</text>
+  <rect x="761" y="50" width="80" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="774" cy="63" r="4.5" fill="#c9d1d9"/>
+  <text x="785" y="67" font-size="12">GitHub</text>
+  <rect x="475" y="84" width="80" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="488" cy="97" r="4.5" fill="#3572A5"/>
+  <text x="499" y="101" font-size="12">Python</text>
+  <rect x="563" y="84" width="42" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="576" cy="97" r="4.5" fill="#9aa5b1"/>
+  <text x="587" y="101" font-size="12">C</text>
+  <rect x="612" y="84" width="57" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="625" cy="97" r="4.5" fill="#f34b7d"/>
+  <text x="636" y="101" font-size="12">C++</text>
+  <rect x="677" y="84" width="64" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="690" cy="97" r="4.5" fill="#e34c26"/>
+  <text x="701" y="101" font-size="12">HTML</text>
+  <rect x="749" y="84" width="57" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="762" cy="97" r="4.5" fill="#7c5cff"/>
+  <text x="773" y="101" font-size="12">CSS</text>
+  <rect x="475" y="118" width="87" height="26" rx="6" fill="none" stroke="#1d3a28"/>
+  <circle cx="488" cy="131" r="4.5" fill="#a97bd8"/>
+  <text x="499" y="135" font-size="12">Haskell</text>
+  <text class="m" x="475" y="174" font-size="12">aprendiendo ahora</text>
+  <rect
+    x="475"
+    y="186"
+    width="98"
+    height="26"
+    rx="6"
+    fill="none"
+    stroke="#ff7eb6"
+    stroke-dasharray="4 3"/>
+  <text class="p" x="486" y="203" font-size="12">JavaScript</text>
+  <rect
+    x="581.0"
+    y="186"
+    width="60"
+    height="26"
+    rx="6"
+    fill="none"
+    stroke="#ff7eb6"
+    stroke-dasharray="4 3"/>
+  <text class="p" x="592.0" y="203" font-size="12">React</text>
+  <rect
+    x="649.0"
+    y="186"
+    width="60"
+    height="26"
+    rx="6"
+    fill="none"
+    stroke="#ff7eb6"
+    stroke-dasharray="4 3"/>
+  <text class="p" x="660.0" y="203" font-size="12">MySQL</text>
+</svg>
